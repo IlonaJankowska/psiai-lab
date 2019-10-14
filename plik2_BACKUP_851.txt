@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Ala ma cztery koty
+=======
+Ala ma trzy koty
+>>>>>>> origin
